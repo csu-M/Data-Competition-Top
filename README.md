@@ -12,12 +12,12 @@
 7. [biendata](https://biendata.com/competition/)  
 8. [DataFountain](https://www.datafountain.cn/)  
 9. [融360](http://openresearch.rong360.com)  
-10.[数愿](http://www.datadreams.org)  
-11.[全球AI挑战赛](https://challenger.ai/)  
-12.[讯飞开放平台](http://challenge.xfyun.cn/)  
-13.[TinyMind](https://www.tinymind.cn/)  
-14.[ATEC蚂蚁开发者大赛](https://dc.cloud.alipay.com)  
-15.[泰迪杯](http://www.tipdm.org/)  
+10. [数愿](http://www.datadreams.org)  
+11. [全球AI挑战赛](https://challenger.ai/)  
+12. [讯飞开放平台](http://challenge.xfyun.cn/)  
+13. [TinyMind](https://www.tinymind.cn/)  
+14. [ATEC蚂蚁开发者大赛](https://dc.cloud.alipay.com)  
+15. [泰迪杯](http://www.tipdm.org/)  
 
 ## Foreign-Data-Competition
 国外数据竞赛平台  
