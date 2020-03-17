@@ -19,6 +19,4 @@
 14. [ATEC蚂蚁开发者大赛](https://dc.cloud.alipay.com)  
 15. [泰迪杯](http://www.tipdm.org/)  
 
-## Foreign-Data-Competition
-国外数据竞赛平台  
-1.[Kaggle](https://www.kaggle.com)
+
